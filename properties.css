@@ -1,0 +1,11 @@
+.listings{
+    grid-template-columns: auto auto auto;
+}
+.box{
+    gap: 10rem;
+}
+@media (max-width:760px) {
+    .listings{
+        grid-template-columns: auto;
+    }
+}

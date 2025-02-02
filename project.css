@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.projectFilter{
+    background-color: #fff;
+    position: relative;
+    bottom: 3rem;
+    box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .08)
+}
+.listings{
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 2rem;
+    row-gap: 2rem;
+    padding: 40px 15px;
+}
+.listings>div{
+    border: 1px solid #e4e4e4;
+    border-radius: 12px;
+    display: block;
+    
+}
+.box{
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    gap: 14rem;
+    padding: 16px 17px;
+}
+.top-box button:first-of-type{
+    background-color: #198754;
+}
+.listings>div:hover .box{
+    background-size: 105% 105%;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, .502)
+}
+.box>div:nth-child(2) button:hover{
+    background-color: #db1d23;
+    color: #fff;
+    transition: all ease .4s;
+}
+
+
+/* Container styling */
+.custom-select-container {
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+  }
+  
+  /* Label styling */
+  .custom-select-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #333;
+  }
+  .select{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 0 19px;
+  }
+  /* Base select styling */
+  .custom-select {
+    /* appearance: none; Remove default styling */
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+    width: 100%; /* Full width for responsiveness */
+    max-width: 200px;
+    outline: none;
+    transition: all 0.3s ease;
+  }
+  
+  /* Add an arrow icon */
+  .custom-select::after {
+    content: '▼'; /* Unicode for down arrow */
+    position: absolute;
+    right: 10px;
+    pointer-events: none;
+  }
+  
+  /* Hover and focus effects */
+  .custom-select:hover {
+    border-color: #888;
+  }
+  
+  /* .custom-select:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 3px #007BFF;
+  } */
+  
+  /* Style the options (browser-specific) */
+  .custom-select option {
+    padding: 10px;
+  }
+  .nextedProject{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 11px;
+    padding-bottom: 80px;
+    padding-top: 20px;
+  }
+  .nextedProject a{
+    
+    align-items: center;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    color: #161e2d;
+    display: flex;
+    font-size: 16px;
+    font-weight: 700;
+    height: 50px;
+    justify-content: center;
+    line-height: 50px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    transition: all .3s ease;
+    width: 48px;
+  }
+.nextedProject a:first-of-type,.nextedProject a:focus,.nextedProject a:hover{
+  background-color: #db1d23;
+  color: #fff;
+}
+
+
+  @media ((max-width: 768px)){
+    .listings {
+      grid-template-columns: auto;
+    }
+    .map{
+      width: -webkit-fill-available;
+    }
+    .nav>div:nth-child(2) a span{
+      color: #db1d23;
+    }
+    .nav>div:nth-child(2) a:first-of-type{
+      color: #000;
+    }
+  }
