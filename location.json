@@ -1,47 +1,47 @@
 {
     "location":[
         {
-            "backgroundImage":"/images/tokyo.jpg",
+            "backgroundImage":"./images/tokyo.jpg",
             "text":"Tokyo"
         },
         {
-            "backgroundImage":"/images/new-york.jpg",
+            "backgroundImage":"./images/new-york.jpg",
             "text":"Amsterdam"
         },
         {
-            "backgroundImage":"/images/copenhagen.jpg",
+            "backgroundImage":"./images/copenhagen.jpg",
             "text":"Copenhagen"
         },
         {
-            "backgroundImage":"/images/new-york.jpg",
+            "backgroundImage":"./images/new-york.jpg",
             "text":"London"
         },
         {
-            "backgroundImage":"/images/munich.jpg",
+            "backgroundImage":"./images/munich.jpg",
             "text":"Munich"
         },
         {
-            "backgroundImage":"/images/copenhagen.jpg",
+            "backgroundImage":"./images/copenhagen.jpg",
             "text":"Napels"
         }
         ,
         {
-            "backgroundImage":"/images/new-york.jpg",
+            "backgroundImage":"./images/new-york.jpg",
             "text":"New York City"
         }
 ],
     "sponsors":[
-        {"image":"/images/lh.png"},
-        {"image":"/images/panadox.png"},
-        {"image":"/images/shang.png"},
-        {"image":"/images/tyaalpha.png"},
-        {"image":"/images/vanfaba.png"},
-        {"image":"/images/lh.png"},
-        {"image":"/images/lh.png"}
+        {"image":"./images/lh.png"},
+        {"image":"./images/panadox.png"},
+        {"image":"./images/shang.png"},
+        {"image":"./images/tyaalpha.png"},
+        {"image":"./images/vanfaba.png"},
+        {"image":"./images/lh.png"},
+        {"image":"./images/lh.png"}
     ],
     "listing":[
         {
-            "backgroundImage1":"/images/adash.jpg",
+            "backgroundImage1":"./images/adash.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -52,7 +52,7 @@
             "amount":"$6,743 - $14,411"
         },
         {
-            "backgroundImage1":"/images/box4.jpg",
+            "backgroundImage1":"./images/box4.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -63,7 +63,7 @@
             "amount":"$3,244 - $12,766"
         },
         {
-            "backgroundImage1":"/images/guide1.jpg",
+            "backgroundImage1":"./images/guide1.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -74,7 +74,7 @@
             "amount":"$6,567 - $13,052"
         },
         {
-            "backgroundImage1":"/images/adash.jpg",
+            "backgroundImage1":"./images/adash.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -85,7 +85,7 @@
             "amount":"$8,195 - $9,442"
         },
         {
-            "backgroundImage1":"/images/box4.jpg",
+            "backgroundImage1":"./images/box4.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -96,7 +96,7 @@
             "amount":"$1,070 - $6,246"
         },
         {
-            "backgroundImage1":"/images/guide1.jpg",
+            "backgroundImage1":"./images/guide1.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -107,7 +107,7 @@
             "amount":"$6,956 - $15,560"
         },
         {
-            "backgroundImage1":"/images/rightImage1.jpg",
+            "backgroundImage1":"./images/rightImage1.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -118,7 +118,7 @@
             "amount":"$2,467 - $9,205"
         },
         {
-            "backgroundImage1":"/images/walnut.jpg",
+            "backgroundImage1":"./images/walnut.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -129,7 +129,7 @@
             "amount":"$7,613 - $12,757"
         },
         {
-            "backgroundImage1":"/images/guide1.jpg",
+            "backgroundImage1":"./images/guide1.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -140,7 +140,7 @@
             "amount":"$8,583 - $10,163"
         },
         {
-            "backgroundImage1":"/images/pop-up image.jpg",
+            "backgroundImage1":"./images/pop-up image.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -151,7 +151,7 @@
             "amount":"$7,593 - $13,496"
         },
         {
-            "backgroundImage1":"/images/box4.jpg",
+            "backgroundImage1":"./images/box4.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
@@ -162,7 +162,7 @@
             "amount":"$3,679 - $7,061"
         },
         {
-            "backgroundImage1":"/images/top-image.jpg",
+            "backgroundImage1":"./images/top-image.jpg",
             "buttonText":"Featured",
             "displayingHeart":"<i class='fa-regular fa-heart'></i>",
             "hiddenHeart":"<i class='fa-solid fa-heart'>",
