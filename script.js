@@ -383,11 +383,7 @@ else{
 
 // the main else condition for media query
 else{
-    setTimeout(() => {
-        popUp.style.display="block"
-        document.body.style.overflow='hidden'
     
-    }, 4000);
     let requesting=new XMLHttpRequest
     let url='file.json'
     requesting.open("GET",url,true)
