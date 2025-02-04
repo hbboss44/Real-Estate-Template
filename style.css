@@ -1822,7 +1822,7 @@ footer{
     .contain>span img{
         width: 100px !important;
     }
-    body{
+    body,main{
         overflow-x: hidden;
     }
     .banner>div:first-of-type h1:nth-child(2), .banner>div:first-of-type h1:nth-child(3){
@@ -1831,14 +1831,7 @@ footer{
     .popup-content>div:first-of-type>img{
         display: none;
     }
-    .popup-container {
-        width: -webkit-fill-available;
-        max-width: 100%;
-        margin: 130px 0 28px;
-    }
-    .popup-content{
-        display: block;
-    }
+    
     .contents {
         padding: 72px 18px;
     }
